@@ -28,11 +28,11 @@ My work connects Linux network defense, Python backends, React interfaces and AI
 | **Skillrel** | React frontend work for student–recruiter skill and certification credibility |
 | **AI Workflow Automation** | Coordinating task inputs, decisions and API-driven actions |
 | **Zero Trust Gateway** | Device fingerprinting, contextual risk and conditional access design |
-| **TARA** | An Android personal AI assistant blueprint, currently in development |
-| **NepalSafe** | Integrating safety modules and refining an Android weather dashboard |
+| [**TARA AI**](https://github.com/NACENNOZRO/TARA-AI) | Kotlin Android assistant with model providers, voice commands, reminders and integration settings |
+| [**NepalSafe**](https://github.com/NACENNOZRO/NepalSafe-Unified) | Android safety dashboard, mesh SOS and a Python image-analysis backend; available source and validation notes |
 | [**AI Travel Planner**](https://github.com/NACENNOZRO/travel) | React/FastAPI travel, budget and weather workflows |
 
-![Concept imagery representing my project archive](project-overview.png)
+| [**Nova Mart**](https://github.com/NACENNOZRO/nova-mart) | Animated ecommerce frontend with product filters and cart interactions |\n\n![Concept imagery representing my project archive](project-overview.png)
 
 ## My toolkit
 
@@ -69,3 +69,4 @@ Python backend engineering · secure API design · network defense · full-stack
 [Let’s connect](mailto:shushaanth25@gmail.com)
 
 </div>
+
