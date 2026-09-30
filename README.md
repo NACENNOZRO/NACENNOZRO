@@ -31,8 +31,9 @@ My work connects Linux network defense, Python backends, React interfaces and AI
 | [**TARA AI**](https://github.com/NACENNOZRO/TARA-AI) | Kotlin Android assistant with model providers, voice commands, reminders and integration settings |
 | [**NepalSafe**](https://github.com/NACENNOZRO/NepalSafe-Unified) | Android safety dashboard, mesh SOS and a Python image-analysis backend; available source and validation notes |
 | [**AI Travel Planner**](https://github.com/NACENNOZRO/travel) | React/FastAPI travel, budget and weather workflows |
+| [**Nova Mart**](https://github.com/NACENNOZRO/nova-mart) | Animated ecommerce frontend with product filters and cart interactions |
 
-| [**Nova Mart**](https://github.com/NACENNOZRO/nova-mart) | Animated ecommerce frontend with product filters and cart interactions |\n\n![Concept imagery representing my project archive](project-overview.png)
+![Concept imagery representing my project archive](project-overview.png)
 
 ## My toolkit
 
